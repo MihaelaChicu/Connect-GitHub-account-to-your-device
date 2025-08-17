@@ -10,6 +10,7 @@
 - Run the installer and click **Next** until you see **"Use Vim" as default editor**.
   
   <img width="628" height="487" alt="2" src="https://github.com/user-attachments/assets/22e301fa-8076-4bb7-912a-39320fccc2de" />
+  
   > ❌ No! Unless you enjoy pain.  
   ✅ Choose Notepad or any editor you have installed, you can always change later.  
 
