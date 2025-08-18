@@ -108,7 +108,7 @@ This command will print your **public SSH key** in Git Bash.
 
    In bash, type 
    ```bash
-   "ssh -T git@github.com"
+   ssh -T git@github.com
 ```
    
 **The message will be :**
